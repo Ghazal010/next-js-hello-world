@@ -1,4 +1,4 @@
-import next from "next"
+
 export default function Hello(){
   return(
     <div className="bg-yellow-300 h-screen w-screen">
